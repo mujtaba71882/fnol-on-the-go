@@ -19,6 +19,4 @@ National and Regional  NAIC accredited Auto insurers.
 = Team Members =
 
 Abraham Rojo and Harsh Upadhyay 
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  
