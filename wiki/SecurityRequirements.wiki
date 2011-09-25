@@ -5,13 +5,13 @@ The iOS SDK for developing iPhone, iPad, iPod provides every iOS APl with a high
 ===Local Security:===
  Local security includes the password protection offered by the Finder, encryption of data provided by FileVault, BSD access permissions, and access permissions added to applications through use of Authorization Services (Apple, 2001).
 
-Remote Transport Security:
+===Remote Transport Security:===
  Many of the security APIs provided by Mac OS X and iOS are useful in this regard, including the secure networking APIs (Secure Transport, CFNetwork, and URL Loading System), and Certificate, Key, and Trust Services (Apple, 2001).
 
-Certificate, Key, and Trust Services:
+===Certificate, Key, and Trust Services:===
  In iOS, additional functions are provided to:
 
-  • Use a private key to generate a digital signature for a block of data.
+ # • Use a private key to generate a digital signature for a block of data.
   • Use a public key to verify a signature.
   • Use a public key to encrypt a block of data.
   • Use a private key to decrypt a block of data (Apple, 2001).
