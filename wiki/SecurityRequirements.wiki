@@ -2,7 +2,7 @@ The First Notice of Loss Application will be developed by the iOS SDK, so it wil
 
 The iOS SDK for developing iPhone, iPad, iPod provides every iOS APl with a high level of security. According to iOS Developer Library, each iOS application will have these security features: 
 
-=Local Security:=
+==Local Security:==
  Local security includes the password protection offered by the Finder, encryption of data provided by FileVault, BSD access permissions, and access permissions added to applications through use of Authorization Services (Apple, 2001).
 
 Remote Transport Security:
