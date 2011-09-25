@@ -31,8 +31,7 @@ Security Server Daemon
  The iOS security implementation includes a daemon called the Security Server that implements several security protocols, such as access to keychain items and root certificate trust management (Apple, 2001).
 
 Sandboxing:
- To limit the damage in case a program is hijacked, both Mac OS X and iOS provide process sandboxing (described in “Sandboxing and the Mandatory Acccess Control Framework”).
-In iOS, every application is sandboxed during installation. The application, its preferences, and its data are restricted to a unique location in the file system and no application can access another application’s preferences or data. In addition, an application running in iOS can see only its own keychain items.
+ To limit the damage in case a program is hijacked, both Mac OS X and iOS provide process sandboxing (described in “Sandboxing and the Mandatory Acccess Control Framework”).In iOS, every application is sandboxed during installation. The application, its preferences, and its data are restricted to a unique location in the file system and no application can access another application’s preferences or data. In addition, an application running in iOS can see only its own keychain items.
 Because every iOS application is sandboxed, your application’s data and preferences cannot be read or modified by other applications, even if they have been compromised by an attacker. If your application is compromised, the attacker cannot use it to take control of the device or to attack other applications (Apple, 2001).
 
 
