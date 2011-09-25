@@ -10,10 +10,11 @@ Remote Transport Security:
 
 Certificate, Key, and Trust Services:
  In iOS, additional functions are provided to:
- •Use a private key to generate a digital signature for a block of data.
- •Use a public key to verify a signature.
- •Use a public key to encrypt a block of data.
- •Use a private key to decrypt a block of data (Apple, 2001).
+
+  •Use a private key to generate a digital signature for a block of data.
+  •Use a public key to verify a signature.
+  •Use a public key to encrypt a block of data.
+  •Use a private key to decrypt a block of data (Apple, 2001).
  
 
 CFNetwork:
