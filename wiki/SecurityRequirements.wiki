@@ -18,21 +18,24 @@ Certificate, Key, and Trust Services:
  
 
 CFNetwork:
-CFNetwork is a high-level API that can be used by applications to create and maintain secure data streams and to add authentication information to a message. CFNetwork calls underlying security services to set up a secure connection (Apple, 2001).
+ CFNetwork is a high-level API that can be used by applications to create and maintain secure data streams and to add authentication information to a message. CFNetwork calls underlying security services to set up a secure connection (Apple, 2001).
 
 Authentication, Identification, and Authorization:
-Authentication is the process by which a person or other entity proves that it is who it says it is (Apple, 2001).
-Identification, which verifies that the person or entity is the same one you communicated with last time (Apple, 2001). 
-Authorization requires first a determination that the authenticated entity has the appropriate permissions—that is, the right to the specific type of access (such as read, write, or execute) requested—and then the actual granting of that access (Apple, 2001).
+ Authentication is the process by which a person or other entity proves that it is who it says it is (Apple, 2001).
+
+ Identification, which verifies that the person or entity is the same one you communicated with last time (Apple, 2001). 
+
+ Authorization requires first a determination that the authenticated entity has the appropriate permissions—that is, the right to the specific type of access (such as read, write, or execute) requested—and then the actual granting of that access (Apple, 2001).
+
 Security Server Daemon
-The iOS security implementation includes a daemon called the Security Server that implements several security protocols, such as access to keychain items and root certificate trust management (Apple, 2001).
+ The iOS security implementation includes a daemon called the Security Server that implements several security protocols, such as access to keychain items and root certificate trust management (Apple, 2001).
 
 Sandboxing:
-To limit the damage in case a program is hijacked, both Mac OS X and iOS provide process sandboxing (described in “Sandboxing and the Mandatory Acccess Control Framework”).
+ To limit the damage in case a program is hijacked, both Mac OS X and iOS provide process sandboxing (described in “Sandboxing and the Mandatory Acccess Control Framework”).
 In iOS, every application is sandboxed during installation. The application, its preferences, and its data are restricted to a unique location in the file system and no application can access another application’s preferences or data. In addition, an application running in iOS can see only its own keychain items.
 Because every iOS application is sandboxed, your application’s data and preferences cannot be read or modified by other applications, even if they have been compromised by an attacker. If your application is compromised, the attacker cannot use it to take control of the device or to attack other applications (Apple, 2001).
 
 
-Reference list:
+ Reference list:
 http://developer.apple.com/library/ios/documentation/Security/Conceptual/Security_Overview/Security_Overview.pdf
 .
