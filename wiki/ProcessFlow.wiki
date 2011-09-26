@@ -7,8 +7,3 @@ http://code.google.com/p/fnol-on-the-go/downloads/detail?name=FNOL%20Application
 
 
 = Record a First Notice of Loss =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
