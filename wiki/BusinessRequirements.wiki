@@ -1,0 +1,29 @@
+#summary One-sentence summary of this page.
+
+= FNoL on the Go - Application specific requirement =
+
+The “FNoL on the Go” application should be listed in iPhone, iPad and Android app store and from internet
+
+A unique activation code will be provided to the subscribing insurance carriers
+ 
+FNoL should be activated by the mobile device owner by entering the activation code given to the policy holders by the Insurance carrier
+
+The Insurance company name and NAIC code should be  saved and be prefilled in new FNOL based the activation code entered
+
+New FNoL  can be entered with new additional insurance provider’s activation code if necessary (Example rental car having a different insurance other than the drivers primary auto insurance)
+
+The FNoL app should identify the event entered location  using GPS  and pre-fill the same
+
+The FNoL app should record the timestamp of the FNoL entry and should note it as the event occurred time by default
+ 
+The user should be able to overwrite the default event time prefilled if necessary
+
+User should be able to enter the policy details and policy holder details upon activation at their discretion
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
