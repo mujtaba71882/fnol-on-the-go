@@ -21,9 +21,12 @@ The user should be able to overwrite the default event time prefilled if necessa
 User should be able to enter the policy details and policy holder details upon activation at their discretion
 
 
-= Details =
+= FNoL Entry process specific requirement =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+The primary insurance carrier information is repopulated as soon as the user click to initiate new loss report
+	User  could select or opt out the pre-populated insurance carrier information 
+	If opt out the user will be asked to enter a new activation code and the carrier information will be populated based on the activation code entered.
+	The location of the incident is captured using the GPS and populated with a time stamp , which can be over written by user if needed
+	User will be asked to enter the identity information, policy details and the vehicle information(refer data requirements for the details)
+	Upon submission  a cliam number will be provided by user’s insurance carrier for  future references  with contact information
+	The request and response will be saved in the application for future references and reports
