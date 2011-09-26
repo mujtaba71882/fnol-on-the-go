@@ -37,7 +37,7 @@ To develop for the iPhone you will need an Intel-based Mac running Leopard (OS X
 If you have a solid grounding in Cocoa development (Apple’s Objective-C framework) with the xCode development on the Mac platform, developing iPhone Apps should be a breeze
 Everything you need to build an iPhone App is contained in the huge iPhone App SDK. Like everything else on the Mac, installing it as my first Mac App was a bit of a challenge. I had never heard of .dmg files, let alone used one, to download and install Mac apps. With the help of this Images explanation, that challenge was soon overcome.
 
-= Tablets: Control4 MyHome – iPad =
+= Tablets: Control4 MyHome iPad =
 
 Control4 MyHome app for iPad—iOS 3.2 or 
 later and Control4 OS 1.7.4 or later (OS 1.7.4 or 
