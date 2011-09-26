@@ -1,0 +1,44 @@
+#summary One-sentence summary of this page.
+
+Data Classification	Attribute Name	Data type	Mandatory	Optional	Prefilled	Drop down	Radio Button	Remarks
+ 	 	 	 	 	 	 	 	 
+Carrier Information	 	 	 	 	 	 	 	 
+ 	Company Activation Code	String	Yes	 	 	No	 	One time entry for the primary insurance
+ 	Company Name	String	Yes	 	Yes	 	 	 
+ 	NAIC Code	String	Yes	 	Yes	 	 	 
+Policy Holder Information	 	 	 	 	 	 	 	 
+ 	First Name	String	Yes	 	 	 	 	 
+ 	Last Name	String	Yes	 	 	 	 	 
+ 	Date Of Birth	Date	Yes	 	 	 	 	 
+ 	Last  four digit of SSN	Numeric	Yes	 	 	 	 	 
+ 	Policy Number	String	 	Yes	 	 	 	 
+Vehicle Information	 	 	 	 	 	 	 	 
+ 	Vehicle Type	String	Yes	 	 	Yes	 	Owned/ Rental
+ 	Vin Number	String	Yes	 	 	 	 	 
+ 	 	 	 	 	 	 	 	 
+Loss Event Details	Event Type 	String	Yes	 	 	Yes	 	Collision, Vandalism 
+ 	Event Location 	String	Yes	 	Yes	 	 	GPS automatically locate  the event location
+ 	Event Time Stamp	Timestamp	 	Yes	 	 	 	ecord the time of FNOL entry
+ 	Event Description	String	Yes	 	 	 	 	 
+ 	Event Pictures	Mime 	 	Yes	 	 	 	 
+Police Report Information	 	 	 	 	 	 	 	 
+ 	Report filed Yes/No	String	Yes	 	 	 	 	to indicate if police report was filed
+ 	 	 	 	 	 	 	 	 
+Driver Information	 	 	 	 	 	 	 	 
+ 	Driver same as policy holder	String	Yes	 	 	Yes		If driver is same as the policy holder then prefill the rest
+ 	Driver Name	String	Yes	 	 	 	 	 
+ 	Driver Date of birth	Date	Yes	 	 	 	 	 
+ 	Driver Last four digit of SSN	Numeric	Yes	 	 	Yes	 	 
+ 	Driver's Insurance Carrier	String	Yes	 	 	 	 	 
+
+= Introduction =
+
+Add your content here.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
