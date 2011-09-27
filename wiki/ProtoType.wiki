@@ -1,5 +1,6 @@
-
 = Initial Screen =
+
+http://fnol-on-the-go.googlecode.com/files/InitialScreen.JPG
 
 = Insurance Carrier landing page =
 
