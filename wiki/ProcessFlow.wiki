@@ -9,4 +9,4 @@ http://code.google.com/p/fnol-on-the-go/downloads/detail?name=FNOL%20Application
 = Record a First Notice of Loss =
 
 
-http://code.google.com/p/fnol-on-the-go/downloads/detail?name=FNOL%20Entry%20process.vsd&can=2&q=#makechanges
+http://fnol-on-the-go.googlecode.com/files/flow_process_chart.jpg
