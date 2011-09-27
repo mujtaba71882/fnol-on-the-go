@@ -3,6 +3,7 @@
 http://fnol-on-the-go.googlecode.com/files/InitialScreen.JPG
 
 = Insurance Carrier landing page =
+http://fnol-on-the-go.googlecode.com/files/InsuranceCarrierLandingPage.JPG
 
 = Report Auto Accident =
 
