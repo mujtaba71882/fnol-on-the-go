@@ -14,9 +14,5 @@ The objective of this effort is to design, develop, test and market a highly ava
 
 = Potential Customers =
  
-National and Regional  NAIC accredited Auto insurers.
-
-= Team Members =
-
-Abraham Rojo, Harsh Upadhyay, and Hiba Alqaysi 
+National and Regional  NAIC accredited Auto insurers. 
   
