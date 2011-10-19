@@ -1,3 +1,0 @@
-
-
-The application should provide a dashboard report of all the FNOL entered with their corresponding claim number via this app from a specific phone for a specific insurance carrier
