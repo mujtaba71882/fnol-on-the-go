@@ -1,18 +1,20 @@
-= Business Case for FNoL on the Go =
+=*1.0 Introduction*=
 
-= ABC Developers =
+==*ABC Developers*==
 
 ABC Developers provides flexible web and mobile applications that enable you to deliver insurance the way you’ve always wanted to. We serve one industry and focuses on one challenge—enabling you to respond to the increasing demand of taking insurance needs of a policy holders “on the go” . We build great software so you can focus on your business. We have invested more in P/C core system engineering than any other startup company. The work is complicated, requiring deep understanding of both the insurance business and expert software engineering. We build extremely flexible solutions that advance functionally and technically with every new release so that all of our customers benefit
  
-= Background =
+==*Background*==
 
 Historically property and casualty insurers were last in-line to IT enable the processing leaving years of legacy and core processes heavily depending on manual activities and paper intense workflow. Close to one-third of insurers anticipate more direct contact with policyholders in service, billing, and claims. As sharing rich information through multiple channels becomes easier and individuals are used to accessing information directly in other areas of their lives, even insurers that are committed to an intermediary sales channel are bracing for additional direct contact with their customers. However only very few insurers can quickly respond to increased demand of Enable advanced IT capabilities, standing up Mobile Applications serving the policy holders is always a difficult one due to lack of technology resources and skill set needed. Industry studies and researches shows that only very few insurers could succeed in increasing demand for customer facing web and mobile applications that can serve all of the policy holders insurance needs especially claims handling. Our goal is provide a very user friendly claims recording mobile application that can be used by auto policy holders  across USA regardless of their insurance careers.
 
-= Objective =
+----
+
+=*2.0 Objective*=
 
 The objective of this effort is to design, develop, test and market a highly available, flexible and user-friendly mobile application that can record "First Notice of a Loss event using iPhone,iPad,Android or Blackberry. The NAIC accredited national and regional auto insurers should be able to subscribe to this service by enabling the usage agreement for their policyholders. The product "FNoL on the Go" will capture the basic information needed for any NAIC accredited insurers to record a "loss event" appropriately and respond to the policyholder with the follow-up details in real-time. 
 
-= Potential Customers =
+==*Potential Customers*==
  
 National and Regional  NAIC accredited Auto insurers. 
   
