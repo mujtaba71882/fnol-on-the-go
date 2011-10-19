@@ -130,6 +130,10 @@ http://fnol-on-the-go.googlecode.com/files/Capture.JPG
 
 http://fnol-on-the-go.googlecode.com/files/pic%201.jpg
 
+==*CASE DIAGRAM*==
+
+http://fnol-on-the-go.googlecode.com/files/u6.png
+
 
 =*7.0 Other project Requirements*=
 ==*7.1	Application Standards*==
@@ -196,5 +200,3 @@ In iOS, additional functions are provided to:
   * Use a public key to verify a signature.
   * Use a public key to encrypt a block of data.
   * Use a private key to decrypt a block of data (Apple, 2001).
-
-
