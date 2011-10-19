@@ -98,3 +98,31 @@ http://fnol-on-the-go.googlecode.com/files/Capture1.JPG
 ==*3.3 Summary of capabilities*==
 
 http://fnol-on-the-go.googlecode.com/files/Capture2.JPG
+
+
+==*3.4 Assumption and dependencies:*== 
+==*3.5.	Cost and pricing:*== 
+  * The cost of making the product is not yet been decided or the selling price to the customers i.e. the insurance companies is also not decided.
+----
+----
+
+=*4.0Feature Attributes*=
+
+  * Status: The project for making this application is proposed and approved.
+
+  * Priority: This product is critically important as the current free application is already in the market and has been used by several IPhone customers. Adding the claim recording feature will potentially attract many insurance companies and increase a new market for revenue generation 
+
+  * Effort: The effort to make this medium and the resources have been identified 
+
+  * Risk: low 
+
+  * Stability: High 
+
+  * Target release: Q4 2011
+
+  * Assign name: FNOL on the Go
+=*5.0 Product Features*=
+==*5.1 Feature 1*==
+==*5.2 Feature 2*==
+
+=*6.Use Cases*=
