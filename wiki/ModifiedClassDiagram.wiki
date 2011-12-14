@@ -1,5 +1,8 @@
 #summary One-sentence summary of this page.
 
+= Manually generated class diagram=
+http://code.google.com/p/fnol-on-the-go/downloads/detail?name=ManuallyGenerated.pdf&can=2&q=#makechanges
+
 = The differences =
 
 http://fnol-on-the-go.googlecode.com/files/differences.docx
