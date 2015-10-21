@@ -1,0 +1,160 @@
+# **1.0 Introduction** #
+
+## **ABC Developers** ##
+
+ABC Developers provides flexible web and mobile applications that enable you to deliver insurance the way you’ve always wanted to. We serve one industry and focuses on one challenge—enabling you to respond to the increasing demand of taking insurance needs of a policy holders “on the go” . We build great software so you can focus on your business. We have invested more in P/C core system engineering than any other startup company. The work is complicated, requiring deep understanding of both the insurance business and expert software engineering. We build extremely flexible solutions that advance functionally and technically with every new release so that all of our customers benefit
+
+## **Background** ##
+
+Historically property and casualty insurers were last in-line to IT enable the processing leaving years of legacy and core processes heavily depending on manual activities and paper intense workflow. Close to one-third of insurers anticipate more direct contact with policyholders in service, billing, and claims. As sharing rich information through multiple channels becomes easier and individuals are used to accessing information directly in other areas of their lives, even insurers that are committed to an intermediary sales channel are bracing for additional direct contact with their customers. However only very few insurers can quickly respond to increased demand of Enable advanced IT capabilities, standing up Mobile Applications serving the policy holders is always a difficult one due to lack of technology resources and skill set needed. Industry studies and researches shows that only very few insurers could succeed in increasing demand for customer facing web and mobile applications that can serve all of the policy holders insurance needs especially claims handling. Our goal is provide a very user friendly claims recording mobile application that can be used by auto policy holders  across USA regardless of their insurance careers.
+
+
+---
+
+
+# **2.0 Objective** #
+
+The objective of this effort is to design, develop, test and market a highly available, flexible and user-friendly mobile application that can record "First Notice of a Loss event using iPhone,iPad,Android or Blackberry. The NAIC accredited national and regional auto insurers should be able to subscribe to this service by enabling the usage agreement for their policyholders. The product "FNoL on the Go" will capture the basic information needed for any NAIC accredited insurers to record a "loss event" appropriately and respond to the policyholder with the follow-up details in real-time.
+
+## **Potential Customers** ##
+
+National and Regional  NAIC accredited Auto insurers.
+
+---
+
+
+# **3.0 Business Requirements** #
+
+## **3.1Application specific requirement** ##
+
+  * The “FNoL on the Go” application should be listed in iPhone, iPad and Android app store and from internet
+
+  * A unique activation code will be provided to the subscribing insurance carriers
+
+  * FNoL should be activated by the mobile device owner by entering the activation code given to the policy holders by the Insurance carrier
+
+  * The Insurance company name and NAIC code should be  saved and be prefilled in new FNOL based the activation code entered
+
+  * New FNoL  can be entered with new additional insurance provider’s activation code if necessary (Example rental car having a different insurance other than the drivers primary auto insurance)
+
+  * The FNoL app should identify the event entered location  using GPS  and pre-fill the same
+
+  * The FNoL app should record the timestamp of the FNoL entry and should note it as the event occurred time by default
+
+  * The user should be able to overwrite the default event time prefilled if necessary
+
+  * User should be able to enter the policy details and policy holder details upon activation at their discretion
+
+## **3.2 Entry process specific requirement** ##
+
+  * The primary insurance carrier information is repopulated as soon as the user click to initiate new loss report.
+
+  * User  could select or opt out the pre-populated insurance carrier information, if opt out the user will be asked to enter a new activation code and the carrier information will be populated based on the activation code entered.
+
+  * The location of the incident is captured using the GPS and populated with a time stamp , which can be over written by user if needed.
+
+  * User will be asked to enter the identity information, policy details and the vehicle information(refer data requirements for the details.
+
+  * Upon submission a claim number will be provided by user’s insurance carrier for  future references  with contact information.
+
+  * The request and response will be saved in the application for future references and reports.
+
+# **PROCESS FLOW CHART** #
+
+## **Record a First Notice of Loss** ##
+
+![http://fnol-on-the-go.googlecode.com/files/flow_process_chart.jpg](http://fnol-on-the-go.googlecode.com/files/flow_process_chart.jpg)
+
+# **SYSTEM REQUIREMENT** #
+
+## **Android** ##
+
+  * Windows XP (32-bit), Vista (32- or 64-bit), or Windows 7 (32- or 64- bit)
+  * Mac OS X 10.5.8 or later (x86 only)
+  * Linux (tested on Ubuntu Linux, Lucid Lynx)
+  * GNU C Library (glibc) 2.7 or later is required.
+  * On Ubuntu Linux, version 8.04 or later is required.
+
+## **Eclipse IDE** ##
+
+  * Eclipse 3.5 (Galileo) or greater
+  * Eclipse JDT plugin (included in most Eclipse IDE packages)
+  * Eclipse IDE for Java Developers
+  * Eclipse Classic (versions 3.5.1 and higher)
+  * Eclipse IDE for Java EE Developers
+  * JDK 5 or JDK 6 (JRE alone is not sufficient)
+  * Android Development Tools plugin (recommended)
+
+## **IPhone : Mac OS X Lion System Requirements** ##
+
+  * In order to install application Mac OS X 10.7 will be need:
+Intel Core 2 Duo, Core i3, Core i5, Core i7, or Xeon processor 2GB of RAM
+  * Mac OS X 10.6.6 or later with the Mac App Store installed at least 4GB of additional disk space to accommodate the download, but more is obviously recommended
+
+  * To develop for the iPhone you will need an Intel-based Mac running Leopard (OS X 10.5.3 or later).
+  * If you have a solid grounding in Cocoa development (Apple’s Objective-C framework) with the xCode development on the Mac platform, developing iPhone Apps should be a breeze
+  * Everything you need to build an iPhone App is contained in the huge      iPhone App SDK. Like everything else on the Mac, installing it as my first Mac App was a bit of a challenge. I had never heard of .dmg files, let alone used one, to download and install Mac apps. With the help of this Images explanation, that challenge was soon overcome.
+
+## **Tablets: Control4 MyHome iPad** ##
+
+  * Control4 MyHome app for iPad—iOS 3.2 or
+later and Control4 OS 1.7.4 or later (OS 1.7.4 or
+1.8.2 require a software patch)
+Licenses
+  * Single device license (C4-MyHome). For one
+(1) supported device only. Supports Control4
+OS 1.7.4 or later.
+
+# **SECURITY REQUIREMENT** #
+
+  * The iOS SDK for developing iPhone, iPad, iPod provides every iOS APl with a high level of security. According to iOS Developer Library, each iOS application will have these security features:
+
+## **Local Security:** ##
+
+  * Local security includes the password protection offered by the Finder, encryption of data provided by FileVault, BSD access permissions, and access permissions added to applications through use of Authorization Services (Apple, 2001).
+
+## **Remote Transport Security:** ##
+
+  * Many of the security APIs provided by Mac OS X and iOS are useful in this regard, including the secure networking APIs (Secure Transport, CFNetwork, and URL Loading System), and Certificate, Key, and Trust Services (Apple, 2001).
+
+## **Certificate, Key, and Trust Services:** ##
+
+In iOS, additional functions are provided to:
+
+  * Use a private key to generate a digital signature for a block of data.
+  * Use a public key to verify a signature.
+  * Use a public key to encrypt a block of data.
+  * Use a private key to decrypt a block of data (Apple, 2001).
+
+# **4.0 FISH-BONE DIAGRAM** #
+
+## **Application Not Working** ##
+
+http://fnol-on-the-go.googlecode.com/files/AppNotWorking.JPG
+
+
+http://fnol-on-the-go.googlecode.com/files/AppNotConnecting.JPG
+
+# **DATA REQUIREMENTS** #
+
+http://fnol-on-the-go.googlecode.com/files/Data_Requirments.JPG
+
+http://fnol-on-the-go.googlecode.com/files/DataRequirments_2.JPG
+
+
+
+
+# **PROTOTYPE** #
+  * Initial Screen
+
+http://fnol-on-the-go.googlecode.com/files/InitialScreen.JPG
+
+http://fnol-on-the-go.googlecode.com/files/InsuranceCarrierLandingPage.JPG
+
+http://fnol-on-the-go.googlecode.com/files/ReportAutoAccedent_1.JPG
+
+http://fnol-on-the-go.googlecode.com/files/ReportAutoAccedent_2.JPG
+
+http://fnol-on-the-go.googlecode.com/files/ReportAutoAccedent_3.JPG
+
+http://fnol-on-the-go.googlecode.com/files/ReportAutoAccedent_4.JPG

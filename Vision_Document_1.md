@@ -1,0 +1,212 @@
+Table of Contents
+Revision History
+## **1.0	Introduction** ##
+## **1.1	Purpose** ##
+## **1.2	Product Overview** ##
+## **1.3	References** ##
+## **2.0	User Description** ##
+## **2.1	User/Market demographics** ##
+## **2.2	User Profiles** ##
+## **2.3	User Environment** ##
+## **2.4	Key User Needs** ##
+## **2.5	Alternatives and Competition** ##
+## **3.0	Product Overview** ##
+## **3.1	Product Perspective** ##
+## **3.2	Product position Statement** ##
+## **3.3	Summary of capabilities** ##
+## **3.4	Assumption and dependencies** ##
+## **3.5	Cost and pricing** ##
+## **4.0	Feature Attributes** ##
+## **5.0	Product Features** ##
+## **5.1	Feature 1** ##
+## **5.2	Feature 2** ##
+## **6.0	Use Cases** ##
+## **7.0	Other project Requirements** ##
+## **7.1	Application Standards** ##
+### **7.1.1	Data Requirements** ###
+## **7.2	System Requirements** ##
+## **7.3	Licensing security and Installation** ##
+## **7.4	Performance requirements** ##
+## **8.0	Documentation requirements** ##
+## **8.1	User Manual** ##
+## **8.2	Online Help** ##
+## **8.3	Installation Guide** ##
+## **9.0	Glossary** ##
+
+## **1.	Introduction** ##
+  * Our Vision
+To be the preeminent mobile device application  development and business capability service  company for Financial services companies by delivering the highest level of service and protection through full-service mobile application development for the IPhone, iPad, Android, and Mobile Web. With dedicated specialists on each platform and a team of designers championing the end user, our in-house app development process is engineered to be seamless, scalable, and lightning fast.
+
+## **1.1.	Purpose** ##
+The purpose of this vision document is to collect, analyze and define high-level use needs and features of the FNOL on the Go IPhone application.
+
+## **1.2.	Product Overview** ##
+  * With the free FNOL on the Go App for IPhone, iPad® and iPod touch®, a variety of information and services—including claims reporting—are just a touch away. So wherever you are, you can connect with your auto insurer quickly.
+Here are just a few of the things you can do with the FNOL on the Go App for IPhone:
+  * Find a local agent.
+  * Report a claim and submit photos of the damage to your vehicle.
+  * Locate a Service Center.
+  * Get emergency service, if you have our Roadside Assistance coverage.
+  * Get safety tips and roadside how-to's.
+## **1.3	References** ##
+
+---
+
+
+---
+
+# **2.0	User Description** #
+<This section summarizes the rationale for the new product. Provide a general description of the history or situation that leads to the recognition that this product should be built.>
+
+## **2.1.	User/Market demographics** ##
+  * This product would have the capabilities to inform the insurance companies the exact accidental description as soon as the incident has occurred. The customers have to fill the required information and submit to the insurance carrier. The product also enhance the Vehicle owner’s and drivers experience by providing several useful services on your finger tips  On the Go.
+## **2.2.	User Profiles** ##
+  * The user of the application is the person who has insurance policy and has this application in his/her Smartphone. The policy holders have to get the app from the app store and the insurance company will provide them the unique activation code so they can use the application to   interface with their insurance company in real time upon a loss event
+## **2.3.	User Environment** ##
+  * Basically the working environment for this app is when accident has occur and person has to provide the information for example how incident has occur and provide the details and photos of the incident by using their Smartphone (iPhone). The application is also useful while driving by providing free services unrelated to loss event
+## **2.4.	Key User Needs** ##
+
+  * Policyholder providing loss event details to the insurance carrier with the necessary information in real-time
+
+  * Policyholder receiving the acknowledgement and claims number from the insurance company upon receiving the loss event details
+
+  * Policyholder accessing the status of an active claim
+
+  * Policyholder and Driver accessing useful services while on the road
+## **2.5.	Alternatives and Competition** ##
+> The alternatives and Completions are listed below
+
+  * Some of the major insurance carriers in North America have developed their own iPhone application and continuously improving the application performance could be a potential loss market for the product
+
+  * The competition from strategic implementation partners and technology resource providers could enable the possibility of having insurance companies developing their own IPhone application to offer similar services
+
+  * Similar less matured product in the market could raise a stiff competition by improving their   product.
+
+---
+
+
+---
+
+# **3.0 Product Overview** #
+
+## **3.1 Product Perspective** ##
+
+
+![http://fnol-on-the-go.googlecode.com/files/PRODUCT%20REVIEW%201.jpg](http://fnol-on-the-go.googlecode.com/files/PRODUCT%20REVIEW%201.jpg)
+
+
+## **3.2 Product Position Statement** ##
+
+
+http://fnol-on-the-go.googlecode.com/files/Capture1.JPG
+
+
+## **3.3 Summary of capabilities** ##
+
+http://fnol-on-the-go.googlecode.com/files/Capture2.JPG
+
+
+## **3.4 Assumption and dependencies:** ##
+## **3.5.	Cost and pricing:** ##
+  * The cost of making the product is not yet been decided or the selling price to the customers i.e. the insurance companies is also not decided.
+
+---
+
+
+---
+
+
+# **4.0Feature Attributes** #
+
+  * Status: The project for making this application is proposed and approved.
+
+  * Priority: This product is critically important as the current free application is already in the market and has been used by several IPhone customers. Adding the claim recording feature will potentially attract many insurance companies and increase a new market for revenue generation
+
+  * Effort: The effort to make this medium and the resources have been identified
+
+  * Risk: low
+
+  * Stability: High
+
+  * Target release: Q4 2011
+
+  * Assign name: FNOL on the Go
+# **5.0 Product Features** #
+## **5.1 Feature 1** ##
+## **5.2 Feature 2** ##
+
+# **6.Use Cases** #
+http://fnol-on-the-go.googlecode.com/files/Capture.JPG
+
+![http://fnol-on-the-go.googlecode.com/files/pic%201.jpg](http://fnol-on-the-go.googlecode.com/files/pic%201.jpg)
+
+## **CASE DIAGRAM** ##
+
+![http://fnol-on-the-go.googlecode.com/files/u6.png](http://fnol-on-the-go.googlecode.com/files/u6.png)
+
+
+# **7.0 Other project Requirements** #
+## **7.1	Application Standards** ##
+### **7.1.1 Data Requirements** ###
+
+http://fnol-on-the-go.googlecode.com/files/Data_Requirments.JPG
+
+http://fnol-on-the-go.googlecode.com/files/DataRequirments_2.JPG
+
+## **7.2.	System Requirements** ##
+## **Android** ##
+
+  * Windows XP (32-bit), Vista (32- or 64-bit), or Windows 7 (32- or 64- bit)
+  * Mac OS X 10.5.8 or later (x86 only)
+  * Linux (tested on Ubuntu Linux, Lucid Lynx)
+  * GNU C Library (glibc) 2.7 or later is required.
+  * On Ubuntu Linux, version 8.04 or later is required.
+
+## **Eclipse IDE** ##
+
+  * Eclipse 3.5 (Galileo) or greater
+  * Eclipse JDT plugin (included in most Eclipse IDE packages)
+  * Eclipse IDE for Java Developers
+  * Eclipse Classic (versions 3.5.1 and higher)
+  * Eclipse IDE for Java EE Developers
+  * JDK 5 or JDK 6 (JRE alone is not sufficient)
+  * Android Development Tools plugin (recommended)
+
+## **IPhone : Mac OS X Lion System Requirements** ##
+
+  * In order to install application Mac OS X 10.7 will be need:
+Intel Core 2 Duo, Core i3, Core i5, Core i7, or Xeon processor 2GB of RAM
+  * Mac OS X 10.6.6 or later with the Mac App Store installed at least 4GB of additional disk space to accommodate the download, but more is obviously recommended
+
+  * To develop for the iPhone you will need an Intel-based Mac running Leopard (OS X 10.5.3 or later).
+  * If you have a solid grounding in Cocoa development (Apple’s Objective-C framework) with the xCode development on the Mac platform, developing iPhone Apps should be a breeze
+  * Everything you need to build an iPhone App is contained in the huge      iPhone App SDK. Like everything else on the Mac, installing it as my first Mac App was a bit of a challenge. I had never heard of .dmg files, let alone used one, to download and install Mac apps. With the help of this Images explanation, that challenge was soon overcome.
+
+## **Tablets: Control4 MyHome iPad** ##
+
+  * Control4 MyHome app for iPad—iOS 3.2 or
+later and Control4 OS 1.7.4 or later (OS 1.7.4 or
+1.8.2 require a software patch)
+Licenses
+  * Single device license (C4-MyHome). For one
+(1) supported device only. Supports Control4
+OS 1.7.4 or later.
+==**7.3.	Licensing security and Installation.
+  * The iOS SDK for developing iPhone, iPad, iPod provides every iOS APl with a high level of security. According to iOS Developer Library, each iOS application will have these security features:**
+
+## **Local Security:** ##
+
+  * Local security includes the password protection offered by the Finder, encryption of data provided by FileVault, BSD access permissions, and access permissions added to applications through use of Authorization Services (Apple, 2001).
+
+## **Remote Transport Security:** ##
+
+  * Many of the security APIs provided by Mac OS X and iOS are useful in this regard, including the secure networking APIs (Secure Transport, CFNetwork, and URL Loading System), and Certificate, Key, and Trust Services (Apple, 2001).
+
+## **Certificate, Key, and Trust Services:** ##
+
+In iOS, additional functions are provided to:
+
+  * Use a private key to generate a digital signature for a block of data.
+  * Use a public key to verify a signature.
+  * Use a public key to encrypt a block of data.
+  * Use a private key to decrypt a block of data (Apple, 2001).

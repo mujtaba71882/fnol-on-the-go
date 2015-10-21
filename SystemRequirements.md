@@ -1,0 +1,48 @@
+# Android #
+
+Windows XP (32-bit), Vista (32- or 64-bit), or Windows 7 (32- or 64-bit)
+Mac OS X 10.5.8 or later (x86 only)
+Linux (tested on Ubuntu Linux, Lucid Lynx)
+GNU C Library (glibc) 2.7 or later is required.
+On Ubuntu Linux, version 8.04 or later is required.
+64-bit distributions must be capable of running 32-bit applications. For information about how to add support for 32-bit applications,
+
+# Eclipse IDE #
+
+Eclipse 3.5 (Galileo) or greater
+Note: Eclipse 3.4 (Ganymede) is no longer supported with the latest version of ADT.
+Eclipse JDT plugin (included in most Eclipse IDE packages)
+If you need to install or update Eclipse, you can download it from http://www.eclipse.org/downloads/.
+Several types of Eclipse packages are available for each platform. For developing Android applications, we recommend that you install one of these packages:
+Eclipse IDE for Java Developers
+Eclipse Classic (versions 3.5.1 and higher)
+Eclipse IDE for Java EE Developers
+JDK 5 or JDK 6 (JRE alone is not sufficient)
+Android Development Tools plugin (recommended)
+Not compatible with Gnu Compiler for Java (gcj)
+Other development environments or IDEs
+JDK 5 or JDK 6 (JRE alone is not sufficient)
+Apache Ant 1.8 or later
+Not compatible with Gnu Compiler for Java (gcj)
+
+# iPhone : Mac OS X Lion System Requirements #
+
+In order to install application Mac OS X 10.7 will be need:
+Intel Core 2 Duo, Core i3, Core i5, Core i7, or Xeon processor 2GB of RAM
+Mac OS X 10.6.6 or later with the Mac App Store installed at least 4GB of additional disk space to accommodate the download, but more is obviously recommended
+
+To develop for the iPhone you will need an Intel-based Mac running Leopard (OS X 10.5.3 or later).
+If you have a solid grounding in Cocoa development (Apple’s Objective-C framework) with the xCode development on the Mac platform, developing iPhone Apps should be a breeze
+Everything you need to build an iPhone App is contained in the huge iPhone App SDK. Like everything else on the Mac, installing it as my first Mac App was a bit of a challenge. I had never heard of .dmg files, let alone used one, to download and install Mac apps. With the help of this Images explanation, that challenge was soon overcome.
+
+# Tablets: Control4 MyHome iPad #
+
+Control4 MyHome app for iPad—iOS 3.2 or
+later and Control4 OS 1.7.4 or later (OS 1.7.4 or
+1.8.2 require a software patch)
+Licenses
+Single device license (C4-MyHome). For one
+(1) supported device only. Supports Control4
+OS 1.7.4 or later.
+Site license (C4-MyHome-Site or
+C4-MyHome-Site-Trial). For multiple (up to 50) supported devices in the system.

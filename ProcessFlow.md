@@ -1,0 +1,9 @@
+# Install FNoL on the Go application #
+
+http://fnol-on-the-go.googlecode.com/files/FNOL Entry process.vsd
+
+
+# Record a First Notice of Loss #
+
+
+![http://fnol-on-the-go.googlecode.com/files/flow_process_chart.jpg](http://fnol-on-the-go.googlecode.com/files/flow_process_chart.jpg)
